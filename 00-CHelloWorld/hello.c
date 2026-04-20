@@ -1,5 +1,5 @@
 // TP0 - Hello, World en C23
-// Ángel Zaracho - UTN FRBA - SSL 2026
+// Ángel Zaracho - UTN FRBA - SSL K2002 (2026)
 // GitHub: zaracy
 
 #include <stdio.h>

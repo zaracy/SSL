@@ -10,7 +10,7 @@
 
 ## Cómo compilar y ejecutar (según material de la cátedra)
 ```bash
-make          # compila + ejecuta (crédito extra)
+make          # compila + ejecuta
 make build    # solo compila
 make run      # solo ejecuta
 make clean    # limpia
